@@ -84,7 +84,7 @@ int nHeightEllipse // width of ellipse
                     Con.Open();
                     cmd.ExecuteNonQuery();
                     Con.Close();
-                    MessageBox.Show("Student Created Successfully...");
+                    MessageBox.Show("Student Created Successfully..");
                     txtStudentName.Text = "";
                     txtAge.Text = "";
                     txtIndexNumber.Text = "";
