@@ -38,7 +38,7 @@ int nTopRect, // y-coordinate of upper-left corner
 int nRightRect, // x-coordinate of lower-right corner
 int nBottomRect, // y-coordinate of lower-right corner
 int nWidthEllipse, // height of ellipse
-int nHeightEllipse // width of ellipse
+int nHeightEllipse // width of ellipse 
 );
 
         private void AllStaff_Load(object sender, EventArgs e)
