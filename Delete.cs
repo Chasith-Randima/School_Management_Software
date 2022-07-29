@@ -37,7 +37,7 @@ namespace WindowsFormsApp1
     int nRightRect, // x-coordinate of lower-right corner
     int nBottomRect, // y-coordinate of lower-right corner
     int nWidthEllipse, // height of ellipse
-    int nHeightEllipse // width of ellipse
+    int nHeightEllipse // width of ellipse 
  );
 
 
