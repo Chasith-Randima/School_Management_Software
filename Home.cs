@@ -31,7 +31,7 @@ int nTopRect, // y-coordinate of upper-left corner
 int nRightRect, // x-coordinate of lower-right corner
 int nBottomRect, // y-coordinate of lower-right corner
 int nWidthEllipse, // height of ellipse
-int nHeightEllipse // width of ellipse
+int nHeightEllipse // width of ellipse 
 );
 
         //SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Family\Desktop\2nd\c#\FinalProject\WindowsFormsApp1\SchoolAdmin.mdf;Integrated Security=True;Connect Timeout=30");
