@@ -9,7 +9,7 @@ namespace WindowsFormsApp1
     public class LoggedInUser
     {
 
-        //public static string userName = "";
+        //public static string userName = ""; 
         //public static string userRole = "";
         private static string userName;
         private static string userRole;
