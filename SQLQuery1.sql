@@ -1,0 +1,1 @@
+﻿Update StudentTbl set StudentName='Randima Silva',StudentAge='22',StudentIndexNumber=22099,StudentGrade='10',StudentImage='Image' where StudentIndexNumber='22094';
